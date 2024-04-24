@@ -1,0 +1,18 @@
+body {
+    background-color: cornsilk; /* BACKGROUND-COLOR é a cor do fundo */
+}
+
+#menu {
+    border: 1px solid black;/* BORDER é a borda de um bloco ai ne posso colocar o tamanho em px e a cor */
+    width: 50%; /* WIDTH é a largura de um bloco e podemos coloca em px */
+    height: 50px; /* HEIGHT é altura de um bloco */
+    background-color: rgb(155, 191, 226); 
+    margin-top: 32px; /* MARGIN é pra devinir a margem e um bloco */ 
+}
+#banner {
+    border: 1px solid black;
+    width: 50%;
+    height: 50px;
+    background-color: rgb(155, 191, 226); 
+    margin-top: 32px;   
+}

@@ -1,0 +1,72 @@
+/*
+exercícios em CSS EHTML de repertição do site starbuck 
+*/
+body{
+    background-color: white;
+}
+
+#menu {
+width: 1240px;
+height: 80px;
+margin-top: 32px;
+background-color: wheat;
+}
+#banner {
+    width: 1240px;
+    height: 320px;
+    background-color:rgb(225, 233, 225);
+    margin-top: 32px;
+}
+#texto {
+    bottom: 1px solid black;
+    width: 1240px;
+    height: 170px;
+    background-color:rgb(173, 197, 173) ;
+    margin-top: 32px;
+}
+#texto01 {
+    bottom: 1px solid black;
+    width: 620px;
+    height: 300px;
+    background-color:rgb(173, 197, 173) ;
+    margin-top: 32px;
+}
+#banner01 {
+    width: 620px;
+    height: 300px;
+    background-color: darkgreen;
+    margin-top: 32px;
+}
+#banner02 {
+    width: 620px;
+    height: 320px;
+    background-color: darkgreen;
+    margin-top: 32px;
+}
+#texto02 {
+    bottom: 1px solid black;
+    width: 620px;
+    height: 320px;
+    background-color:rgb(173, 197, 173) ;
+    margin-top: 32px;
+}
+#texto03 {
+    bottom: 1px solid black;
+    width: 620px;
+    height: 320px;
+    background-color:rgb(173, 197, 173) ;
+    margin-top: 32px;
+}
+#banner03 {
+    width: 620px;
+    height: 320px;
+    background-color: darkgreen;
+    margin-top: 32px;
+}
+#rodape {
+    bottom: 1px solid black;
+    width: 1240px;
+    height: 191px;
+    background-color:rgb(199, 191, 191) ;
+    margin-top: 32px;
+}
