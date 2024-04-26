@@ -8,6 +8,10 @@ body{
     align-items: center;
     background-color: white;
 }
+.button{
+
+
+}
 .titulo{
 
     font-family: Arial, Helvetica, sans-serif;
@@ -29,14 +33,14 @@ height: 80px;
 margin-top: 32px;
 background-color:#FFFFFF;
 }
-#primeiro-banner {
+#banner01 {
 
     width: 1240px;
     height: 320px;
-    background-color:#D4E9E2;
+    background-color:#022b1e;
     margin-top: 32px;
 }
-#primeiro-texto {
+#texto-01 {
 
     display: flex;
     flex-direction: column;
@@ -48,13 +52,12 @@ background-color:#FFFFFF;
     background-color:#D4E9E2 ;
     margin-top: 32px;
 }
-#coluna-dupla-01 {
+#coluna-dois-copos {
 
     display: flex;
     flex-direction: row;
 }
-
-#texto01 {
+#texto02 {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -64,42 +67,39 @@ background-color:#FFFFFF;
     background-color:#D4E9E2 ;
     margin-top: 32px;
 }
-
-#banner01 {
+#banner02 {
     width: 620px;
     height: 300px;
     background-color: darkgreen;
     margin-top: 32px;
 }
-
-#cafe02 {
-
+#coluna-planta {
     display: flex;
     flex-direction: row;
+    
 }
-
-#banner02 {
+#banner03 {
     width: 620px;
     height: 320px;
     background-color: darkgreen;
     margin-top: 32px;
 }
-
-#texto02 {
-
+#texto03 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     bottom: 1px solid black;
     width: 620px;
     height: 320px;
     background-color:#D4E9E2 ;
     margin-top: 32px;
 }
-
-#cafe03 {
+#coluna-pessoas {
 
     display: flex;
     flex-direction: row;
 }
-#texto03 {
+#texto04 {
 
     bottom: 1px solid black;
     width: 620px;
@@ -107,7 +107,7 @@ background-color:#FFFFFF;
     background-color: #D4E9E2 ;
     margin-top: 32px;
 }
-#banner03 {
+#banner04 {
 
     width: 620px;
     height: 320px;
